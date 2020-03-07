@@ -71,4 +71,5 @@ Aprendendo a linguagem para programas Web, Machine learning e Data Science
 ### Automate the Boring Stuff with Python Programming
 
 [Digital Book](https://automatetheboringstuff.com/)
+
 [Udemy Course](https://www.udemy.com/course/automate/)
