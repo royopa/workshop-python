@@ -60,3 +60,10 @@ Material para o workshop de Python - automatização de tarefas que será realiz
 [Arquivos e Dicionários](https://github.com/fmasanori/PPZ/blob/master/TWP23%20Arquivos%20e%20Dicionários.pdf)
 
 [Classes e Objetos](https://github.com/fmasanori/PPZ/blob/master/TWP25%20Classes%20e%20Objetos.pdf)
+
+
+### Alura
+
+Aprendendo a linguagem para programas Web, Machine learning e Data Science
+
+[Formação Python](https://cursos.alura.com.br/formacao-Python-linguagem)
