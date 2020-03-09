@@ -73,3 +73,10 @@ Aprendendo a linguagem para programas Web, Machine learning e Data Science
 [Digital Book](https://automatetheboringstuff.com/)
 
 [Udemy Course](https://www.udemy.com/course/automate/)
+
+
+### Links para videoaulas baixadas no ambiente de trabalho
+
+- \\sp5482et005\workshop\
+- \\sp7266et321\app\workshop\
+
